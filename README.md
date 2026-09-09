@@ -9,3 +9,4 @@ AI generates personalized workout plans for you.
 
 ---
 *Built by Swastik Paraashar, Meerut, India*
+check it out [https://moventra-sp-2026-ak-fitness.ai.studio]
